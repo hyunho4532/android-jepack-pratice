@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">View-And-ViewModel</string>
+    <string name="meta_test_str">meta-data Test!!!!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
